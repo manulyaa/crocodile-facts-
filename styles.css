@@ -1,0 +1,32 @@
+body {
+    background-color: #e0f7fa; /* Light blue background */
+    color: #004d00; /* Dark green text */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+.container {
+    border: 2px solid #00796b; /* Teal border */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #ffffff; /* White background for the container */
+}
+
+button {
+    background-color: #2196f3; /* Blue button */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #1976d2; /* Darker blue on hover */
+}
+
+.bold {
+    font-weight: bold; /* Bold text for main points */
+}
